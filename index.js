@@ -13,3 +13,8 @@ console.log(D - B * F);
 let G = 234;
 let H = 5;
 console.log(G % H );
+
+console.log(A || B);
+console.log(B || C);
+console.log(A || C);
+console.log(A || B || C);
