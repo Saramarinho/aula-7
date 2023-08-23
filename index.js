@@ -18,3 +18,15 @@ console.log(A || B);
 console.log(B || C);
 console.log(A || C);
 console.log(A || B || C);
+
+/*exercicio 5
+*/
+let nome = "Laura";
+let idade = 23;
+let maioridadeV = true;
+let futuraidade = 50;
+console.log("Nome:", nome);
+console.log("Idade:", idade);
+console.log("É maior de idade?", maioridadeV);
+console.log("Idade em 2050:", futuraidade);
+
